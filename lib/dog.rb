@@ -1,4 +1,6 @@
 class Dog
+  bark
+  sit
 end
 
 def bark
